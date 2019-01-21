@@ -1,2 +1,2 @@
 # git_exercise
-Hello.txt
+hello.txt
