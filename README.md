@@ -1,2 +1,2 @@
 # git_exercise
-Learining something new
+Hello.txt
