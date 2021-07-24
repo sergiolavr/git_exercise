@@ -1,3 +1,6 @@
 [submodule "test_git"]
 	path = test_git
 	url = /users/sergei/documents/test_git
+[submodule "union_repo"]
+	path = union_repo
+	url = /users/sergei/documents/union_repo
