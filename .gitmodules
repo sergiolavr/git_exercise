@@ -4,3 +4,6 @@
 [submodule "union_repo"]
 	path = union_repo
 	url = /users/sergei/documents/union_repo
+[submodule "epf/Configuration_UFK"]
+	path = epf/Configuration_UFK
+	url = /users/sergei/documents/git_learn/Configuration_UFK
